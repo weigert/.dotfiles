@@ -26,6 +26,11 @@ Workflow:
     video player      - vlc
     music player      - spotify + sp
     
+Utility (required for some polybar / openbox scripts):
+    
+    audio             - alsamixer + pulseaudio
+    bluetooth         - blueman
+    
 I am not entirely happy with nautilus, because it doesn't adhere to my theme fully. But it works well. I am looking for alternatives.
 
 Evince is nice because it is clean and *it just works*.
