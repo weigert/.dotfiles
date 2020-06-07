@@ -1,2 +1,2 @@
 #!/bin/sh
-'feh' '--bg-fill' '/home/nick/Pictures/background/solid.png' 
+'feh' '--bg-fill' '$HOME/.config/solid.png' 
