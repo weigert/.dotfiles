@@ -1,0 +1,3 @@
+configuration {
+	modi: "run,ssh,window,file:~/.config/rofi/scripts/file.sh";
+}

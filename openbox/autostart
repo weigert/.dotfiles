@@ -1,0 +1,4 @@
+compton &
+~/.config/.fehbg &
+~/.config/polybar/launch.sh &
+
