@@ -31,3 +31,12 @@ I am not entirely happy with nautilus, because it doesn't adhere to my theme ful
 Evince is nice because it is clean and *it just works*.
 
 Awesome spotify control shell script by wandernauta: [sp](https://gist.github.com/wandernauta/6800547)
+
+## Screenshots
+
+![atom](https://github.com/weigert/.dotfiles/blob/master/screenshots/atom.png)
+
+![rofi](https://github.com/weigert/.dotfiles/blob/master/screenshots/rofi.png)
+
+![firefox](https://github.com/weigert/.dotfiles/blob/master/screenshots/firefox.png)
+
